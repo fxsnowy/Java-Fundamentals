@@ -11,6 +11,7 @@ public class exercise
         int[] arrayB = new int[5];
         
         Scanner input = new Scanner(System.in);
+        // Read input from the console
         
         // Input digits. Only accept digits < 10.
         for (int i = 0; i < arrayA.length - 1; i++)
